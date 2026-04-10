@@ -21,3 +21,9 @@ Gestiona clientes, vendedores, ventas y prendas de vestir.
 - MySQL
 - MySQL Workbench
 
+LA tabla verificacion del Query:
+<img width="735" height="553" alt="image" src="https://github.com/user-attachments/assets/84bd9112-5ec0-409d-91f1-782e912dcbbc" />
+
+La estructura de la tabla:
+<img width="741" height="574" alt="image" src="https://github.com/user-attachments/assets/3ad468a7-203c-41b4-958d-fe8119ec210a" />
+
